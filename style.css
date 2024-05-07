@@ -1,18 +1,18 @@
 
 body {
-background-color: bisque;
-
+background-color: #0c4a6e;
+color: #ffffff;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-h1, h2 {
-color: brown;
-}
-h3 {
-color: rgb(238, 92, 55);
 
+h2{
+    color: #0284c7;
+    font-size: 180%;
+    font-weight: 700;
 }
 
 body > div {
-    background-color: #f35e44;
+    background-color: rgb(143, 189, 230);
     max-width: 736px;
     margin-inline: auto;
     margin-block: 64px;
@@ -26,8 +26,8 @@ div img{
     }
     p, li, ol{
 
-            color:#5f564d;
             line-height: 200%;
             margin-block: 32px;
         font-size: x-large;
     }
+    
