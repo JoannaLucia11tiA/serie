@@ -11,6 +11,10 @@ h2{
     font-weight: 700;
 }
 
+header{
+    background-color: #3ea2db;
+}
+
 body > div {
     background-color: rgb(143, 189, 230);
     max-width: 736px;
